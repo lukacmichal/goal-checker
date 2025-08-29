@@ -26,7 +26,7 @@ No ads, no accounts, no cloud – everything is stored locally on your phone.
 Of course, if you are interested in this app, just let me know.  
 Here I only provide screenshots – unfortunately, the interface is in Slovak. :)
 
-![Main Screen](https://github.com/lukacmichal/goal-checker/blob/main/main%20screen.jpg)
+![Home Screen](https://github.com/lukacmichal/goal-checker/blob/main/home%20screen.jpg)
 ![Goal statistics](https://github.com/lukacmichal/goal-checker/blob/main/statistics.jpg)  
 
 ## 📩 Contact
