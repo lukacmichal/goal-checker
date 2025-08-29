@@ -27,7 +27,7 @@ Of course, if you are interested in this app, just let me know.
 Here I only provide screenshots – unfortunately, the interface is in Slovak. :)
 
 ![Main Screen](https://github.com/lukacmichal/goal-checker/blob/main/main%20screen.jpg)
-![Goal statistics](https://github.com/lukacmichal/goal-checker/blob/main/stats.jpg)  
+![Goal statistics](https://github.com/lukacmichal/goal-checker/blob/main/statistics.jpg)  
 
 ## 📩 Contact
 If you’d like to try this app or discuss a similar project, feel free to reach out.  
