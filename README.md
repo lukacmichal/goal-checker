@@ -1,3 +1,5 @@
+> **2025 — early attempt.** Back then I only put screenshots here, no code. My Android apps from 2026 are published with full source — see [pocasie](https://github.com/lukacmichal/pocasie), [meniny](https://github.com/lukacmichal/meniny) or [homesecure](https://github.com/lukacmichal/homesecure).
+
 # Daily Goals Android App
 
 ## 📌 About
